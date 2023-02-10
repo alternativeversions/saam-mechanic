@@ -43,7 +43,7 @@ export const inputs = {
   },
   text: {
     type: "text",
-    default: "mechanic"
+    default: "SAAM"
   },
   color1: {
     type: "color",
